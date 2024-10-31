@@ -1,8 +1,12 @@
 {
 "version": "2.1",
 "title": "Update Available!",
-"downloadLink": "https://inspie.glitch.me",
+"NewVersion": "2.1",
+"downloadLink": "https://telegram.me/lizamods",
+"changeLogMessage": "- Bug fixes
+- Performance improvements
+A new update is available for the app. Please update for the latest features and improvements.",
+"negativebtn": "Later",
 "positivebtn": "Update Now",
-"message": "Please update your app to enjoy new features",
-"negativebtn": "Later"
+"changelogTitle": "Changelogs"
 }
