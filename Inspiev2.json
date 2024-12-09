@@ -1,0 +1,9 @@
+{
+"show_message": false,
+"title": "Update Available!",
+"content_url": "",
+"downloadLink": "https://inspie.glitch.me",
+"positive_btn": "Update Now",
+"message": "Please update your app to enjoy new features",
+"cancelable": true
+}
